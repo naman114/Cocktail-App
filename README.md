@@ -1,4 +1,4 @@
-# MeetingsManager
+# Cocktail App
 
 A new Flutter project.
 
